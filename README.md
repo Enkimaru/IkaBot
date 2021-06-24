@@ -1,2 +1,2 @@
 # IkaBot
-Discord for our Free Company Jiyuna Ika on Behemoth
+Discord bot for our Free Company Jiyuna Ika on Behemoth
